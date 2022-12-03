@@ -1,0 +1,11 @@
+const data = {
+   "prependHeader": true,
+   "maxJsonSize": 400,
+   "alwaysFold": false,
+   "alwaysRenderAllContent": false,
+   "sortKeys": false,
+   "clickableUrls": true,
+   "wrapLinkWithAnchorTag": false,
+   "openLinksInNewWindow": true,
+   "autoHighlight": true
+ }

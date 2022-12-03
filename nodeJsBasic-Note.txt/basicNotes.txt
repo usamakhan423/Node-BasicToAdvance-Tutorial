@@ -1,0 +1,31 @@
+                     // Builtin  module in nodeJs //
+  
+{
+    <---HTTP Module--->
+    Node.js has a built-in module called HTTP, which allows Node.js to
+    transfer data over the Hyper Text Transfer Protocol (HTTP). To 
+    include the HTTP module, use the require() method: var http = 
+    require('http')
+}
+
+{
+    <---HTTP Request--->
+    An HTTP request is made by a client, to a named host, which is located 
+    on a server. The aim of the request is to access a resource on the server.
+}
+
+{
+    <---HTTP POST REQUEST--->
+    POST is a request method supported by HTTP used by the World Wide Web. The HTTP POST 
+    method sends data to the server. The type of the body of the request is indicated by 
+    the Content-Type header. We use Express. js in order to create a server and to make 
+    requests (GET, POST, etc).
+}
+
+{
+    <---Route in nodeJs--->
+    Routing refers to how an application's endpoints (URIs) respond to client requests.
+     For an introduction to routing, see Basic routing. You define routing using methods
+      of the Express app object that correspond to HTTP methods; for example, app.get() to
+       handle GET requests and app.post to handle POST requests.
+}
